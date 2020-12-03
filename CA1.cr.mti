@@ -1,0 +1,99 @@
+C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/TesterLearningMachine.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/TesterLearningMachine.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TesterLearningMachine
+
+Top level modules:
+	TesterLearningMachine
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Controller.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/LearningMachine.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/LearningMachine.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LearningMachine
+
+Top level modules:
+	LearningMachine
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/DataPath.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/TestBench.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/TestBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/adder.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/FlagReg.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/FlagReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FlagReg
+
+Top level modules:
+	FlagReg
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg3bit.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg3bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg3bit
+
+Top level modules:
+	Reg3bit
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg7bit.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg7bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg7bit
+
+Top level modules:
+	Reg7bit
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/multiplier.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg2bit.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg2bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg2bit
+
+Top level modules:
+	Reg2bit
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Mux2to1.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Mux4to1.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Mux4to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg14bit.v {1 {vlog -work work C:/Users/Shakiba/Desktop/CA/CA1_810196426_810195374/Reg14bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reg14bit
+
+Top level modules:
+	Reg14bit
+
+} {} {}}
